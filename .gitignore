@@ -1,0 +1,6 @@
+build/
+dist/
+*.keystore
+*.jks
+*credentials*.txt
+.DS_Store

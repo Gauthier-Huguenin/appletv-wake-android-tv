@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_description">Turns the TV on when the Apple TV wakes up, and toggles inputs on a double press of mute. Reads no screen content.</string>
+</resources>
